@@ -1,7 +1,7 @@
 <div id = "statistic" >
   <a href="https://github.com/MrWerton">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrwerton&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d10170.0&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
-  <img height="150em" width:"50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwerton&layout=compact&langs_count=7&bg_color=0d10170.0&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrwerton&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
+  <img height="150em" width:"50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwerton&layout=compact&langs_count=7&bg_color=0d1017&title_color=0613d1&icon_color=777&text_color=0613d1&border_color=03009c"/>
 </div><hr>
  <div id="learned">
      <h2>Learned</h2>
